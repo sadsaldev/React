@@ -1,3 +1,5 @@
+**React Projects**
+
 Aquí se encuentran diferentes directorios referentes a proyectos de React que he realizado en los últimos meses con el propósito de aprender a fondo y dominar el uso de esta librería para construir aplicaciones web óptimas, eficaces y completas en el lado del frontend. 
 
 **1. React-First-Practice:** Hace referencia al primer proyecto que creé de React y en él están los temas que comencé a aprender. Tales como la lógica JSX, la jerarquía de componentes, la estructura de proyecto, las arrow functions, el uso y funciones principales de los estados y efectos useState/useEffect y el ciclo de vida de los componentes. 
