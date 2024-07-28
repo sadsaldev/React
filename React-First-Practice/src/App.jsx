@@ -1,10 +1,16 @@
-import { ItemListContainer } from "./components/ListContainer/ItemListContainer";
+import {Card} from "./components/Card/Card";
+import {Counter} from "./components/Counter/Counter";
+import {Text} from "./components/Text/Text";
+import {Usuario} from "./components/Usuario/Usuario";
 
 function App() {
 
   return (
     <div>
-      <ItemListContainer/>
+      <Card />
+      <Counter />  
+      <Text />
+      <Usuario />
     </div>
   );
 } 
